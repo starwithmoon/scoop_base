@@ -1,7 +1,0 @@
-{
-    "version": "1.0",
-    "url": "http://47.91.157.61:8010/UltraEdit-32.7z",
-    "extract_dir": "UltraEdit-32",
-    "bin": "UltraEdit-32.exe",
-    "lnk": "yes"
-}
