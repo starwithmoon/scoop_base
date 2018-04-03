@@ -1,0 +1,7 @@
+{
+    "version": "1.0",
+    "url": "http://47.91.157.61:8010/JSONedit.7z",
+    "extract_dir": "JSONedit",
+    "bin": "JSONedit.exe",
+    "lnk": "yes"
+}

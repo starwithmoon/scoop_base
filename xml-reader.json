@@ -1,0 +1,7 @@
+{
+    "version": "1.0",
+    "url": "http://47.91.157.61:8010/xml-reader.7z",
+    "extract_dir": "xml-reader",
+    "bin": "xml-reader.exe",
+    "lnk": "yes"
+}
