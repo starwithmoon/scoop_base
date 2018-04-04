@@ -4,5 +4,5 @@
     "extract_dir": "lingoescn",
     "bin": "lingoescn.exe",
     "lnk": "yes",
-    "category": "\Editor"
+    "category": ".Editor"
 }
