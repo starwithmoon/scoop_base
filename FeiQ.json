@@ -4,5 +4,5 @@
     "extract_dir": "FeiQ",
     "bin": "FeiQ.exe",
     "lnk": "yes",
-    "category": ".Network"
+    "category": ".Network.FileTransfer"
 }

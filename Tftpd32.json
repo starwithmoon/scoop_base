@@ -4,5 +4,5 @@
     "extract_dir": "Tftpd32",
     "bin": "Tftpd32.exe",
     "lnk": "yes",
-    "category": ".Network"
+    "category": ".Network.FileTransfer"
 }

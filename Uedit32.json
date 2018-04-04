@@ -3,5 +3,6 @@
     "url": "http://47.91.157.61:8010/Uedit32.7z",
     "extract_dir": "Uedit32",
     "bin": "Uedit32.exe",
-    "lnk": "yes"
+    "lnk": "yes",
+    "category": ".Editor"
 }

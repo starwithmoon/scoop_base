@@ -3,5 +3,6 @@
     "url": "http://47.91.157.61:8010/Tc.7z",
     "extract_dir": "Tc",
     "bin": "Tc.exe",
-    "lnk": "yes"
+    "lnk": "yes",
+    "category": ".System.DesktopQuick"
 }

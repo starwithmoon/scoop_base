@@ -3,5 +3,6 @@
     "url": "http://47.91.157.61:8010/Poedit.7z",
     "extract_dir": "Poedit",
     "bin": "Poedit.exe",
-    "lnk": "yes"
+    "lnk": "yes",
+    "category": ".Editor"
 }

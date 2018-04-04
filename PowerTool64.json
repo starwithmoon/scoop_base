@@ -4,5 +4,5 @@
     "extract_dir": "PowerTool64",
     "bin": "PowerTool64.exe",
     "lnk": "yes",
-    "category": ".System"
+    "category": ".System.Process"
 }

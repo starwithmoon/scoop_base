@@ -1,0 +1,8 @@
+{
+    "version": "1.0",
+    "url": "http://47.91.157.61:8010/Shadowsocks.7z",
+    "extract_dir": "Shadowsocks",
+    "bin": "Shadowsocks.exe",
+    "lnk": "yes",
+    "category": ".Network.Proxy"
+}

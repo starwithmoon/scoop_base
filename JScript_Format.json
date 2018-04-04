@@ -3,5 +3,6 @@
     "url": "http://47.91.157.61:8010/JScript_Format.7z",
     "extract_dir": "JScript_Format",
     "bin": "JScript_Format.exe",
-    "lnk": "yes"
+    "lnk": "yes",
+    "category": ".Editor"
 }

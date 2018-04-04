@@ -4,5 +4,5 @@
     "extract_dir": "PCHunter64",
     "bin": "PCHunter64.exe",
     "lnk": "yes",
-    "category": ".System"
+    "category": ".System.Process"
 }
