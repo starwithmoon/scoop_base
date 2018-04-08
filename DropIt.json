@@ -1,0 +1,8 @@
+{
+    "version": "1.0",
+    "url": "http://47.91.157.61:8010/DropIt.7z",
+    "extract_dir": "DropIt",
+    "bin": "DropIt.exe",
+    "lnk": "yes",
+    "category": ".System.DesktopQuick"
+}
