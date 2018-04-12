@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "url": "http://47.91.157.61:8010/WinDirStat.7z",
+    "url": "http://47.91.157.61:8020/WinDirStat.7z",
     "extract_dir": "WinDirStat",
     "bin": "WinDirStat.exe",
     "lnk": "yes",

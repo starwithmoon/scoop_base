@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "url": "http://47.91.157.61:8010/lingoescn.7z",
+    "url": "http://47.91.157.61:8020/lingoescn.7z",
     "extract_dir": "lingoescn",
     "bin": "lingoescn.exe",
     "lnk": "yes",

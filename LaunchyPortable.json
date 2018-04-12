@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "url": "http://47.91.157.61:8010/LaunchyPortable.7z",
+    "url": "http://47.91.157.61:8020/LaunchyPortable.7z",
     "extract_dir": "LaunchyPortable",
     "bin": "LaunchyPortable.exe",
     "lnk": "yes",

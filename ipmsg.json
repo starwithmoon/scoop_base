@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "url": "http://47.91.157.61:8010/ipmsg.7z",
+    "url": "http://47.91.157.61:8020/ipmsg.7z",
     "extract_dir": "ipmsg",
     "bin": "ipmsg.exe",
     "lnk": "yes",

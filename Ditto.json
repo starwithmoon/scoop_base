@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "url": "http://47.91.157.61:8010/Ditto.7z",
+    "url": "http://47.91.157.61:8020/Ditto.7z",
     "extract_dir": "Ditto",
     "bin": "Ditto.exe",
     "lnk": "yes",
