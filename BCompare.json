@@ -1,0 +1,8 @@
+{
+    "version": "1.0",
+    "url": "http://47.91.157.61:8020/BCompare.7z",
+    "extract_dir": "BCompare",
+    "bin": "BCompare.exe",
+    "lnk": "yes",
+    "category": ".Editor"
+}
