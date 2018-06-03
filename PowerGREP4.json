@@ -1,0 +1,11 @@
+{
+    "version": "1.0",
+    "url": "http://47.91.157.61:8020/PowerGREP4.7z",
+    "extract_dir": "PowerGREP4",
+    "bin": "PowerGREP4.exe",
+    "lnk": "yes",
+    "installer": {
+	"file": "GreenInstall.bat"
+    },
+    "category": ".Editor"
+}
