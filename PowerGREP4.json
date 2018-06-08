@@ -4,8 +4,5 @@
     "extract_dir": "PowerGREP4",
     "bin": "PowerGREP4.exe",
     "lnk": "yes",
-    "installer": {
-	"file": "GreenInstall.bat"
-    },
     "category": ".Editor"
 }
