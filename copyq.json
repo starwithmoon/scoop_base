@@ -1,0 +1,8 @@
+{
+    "version": "1.0",
+    "url": "http://47.91.157.61:8020/copyq.7z",
+    "extract_dir": "copyq",
+    "bin": "copyq.exe",
+    "lnk": "yes",
+    "category": ".System.CliborBoard"
+}

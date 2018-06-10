@@ -1,0 +1,8 @@
+{
+    "version": "1.0",
+    "url": "http://47.91.157.61:8020/Listary.7z",
+    "extract_dir": "Listary",
+    "bin": "Listary.exe",
+    "lnk": "yes",
+    "category": ".System.DesktopQuick"
+}
