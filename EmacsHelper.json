@@ -3,9 +3,45 @@
     "url": "http://47.91.157.61:8020/EmacsHelper.7z",
     "extract_dir": "EmacsHelper",
     "bin": "EmacsHelper.exe",
-    "installer": {
-	"file": "InstallHelper.ps1",
-    },
+    "post_install": "
+    function Get-ScriptDirectory {
+        Split-Path -Parent $PSCommandPath
+    }
+    
+    function set_new_config(){
+    $search = \"C:/Users/Administrator/scoop/apps/emacs_helper\"
+    $cur_dir = Get-ScriptDirectory
+    
+    $emacs_base = \"$cur_dir/.emacs_base\"
+    $arr_base_lines = Get-Content $emacs_base
+    $emacs_base_to_set = \"$cur_dir/.emacs_base\"
+    
+    $app_data_dir = $env:APPDATA
+    $emacs_loader = \"$app_data_dir/.emacs\"
+    
+    # set loader
+    Set-Content $emacs_loader \";; try to load basic config\"
+    foreach ($element in $arr_loader_lines){
+        $line = $element
+        if($element.Contains($search)){
+            $line = $element.Replace($search, $cur_dir).Replace(\"\\\", \"/\")
+        }
+        Add-Content $emacs_loader $line 
+    }
+    
+    # set .emacs config
+    Set-Content $emacs_base_to_set \";; try to set basic config\"
+    foreach ($element in $arr_base_lines){
+        $line = $element
+        if($element.Contains($search)){
+            $line = $element.Replace($search, $cur_dir).Replace(\"\\\", \"/\")
+        }
+        Add-Content $emacs_base_to_set $line
+    }
+    }
+    
+    set_new_config
+    ",
     "lnk": "no",
     "category": ".Editor"
 }
