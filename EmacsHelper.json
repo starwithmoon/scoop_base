@@ -1,0 +1,8 @@
+{
+    "version": "1.0",
+    "url": "http://47.91.157.61:8020/EmacsHelper.7z",
+    "extract_dir": "EmacsHelper",
+    "bin": "EmacsHelper.exe",
+    "lnk": "yes",
+    "category": ".Editor"
+}
