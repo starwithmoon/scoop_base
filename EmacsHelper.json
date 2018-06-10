@@ -11,6 +11,7 @@
     function set_new_config(){
     $search = \"C:/Users/Administrator/scoop/apps/emacs_helper\"
     $cur_dir = Get-ScriptDirectory
+    $cur_dir = (Get-Command scoop).Path + \"/../../apps/EmacsHelper/1.0/\"
     
     $emacs_base = \"$cur_dir/.emacs_base\"
     $arr_base_lines = Get-Content $emacs_base
