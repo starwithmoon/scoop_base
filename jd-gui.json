@@ -1,0 +1,8 @@
+{
+    "version": "1.0",
+    "url": "http://47.91.157.61:8020/jd-gui.7z",
+    "extract_dir": "jd-gui",
+    "bin": "jd-gui.exe",
+    "lnk": "yes",
+    "category": ".DevTools.JavaDev"
+}

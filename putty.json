@@ -1,0 +1,8 @@
+{
+    "version": "1.0",
+    "url": "http://47.91.157.61:8020/putty.7z",
+    "extract_dir": "putty",
+    "bin": "putty.exe",
+    "lnk": "yes",
+    "category": ".Network.RemoteMgmt"
+}

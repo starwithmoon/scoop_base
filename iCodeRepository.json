@@ -1,0 +1,8 @@
+{
+    "version": "1.0",
+    "url": "http://47.91.157.61:8020/iCodeRepository.7z",
+    "extract_dir": "iCodeRepository",
+    "bin": "iCodeRepository.exe",
+    "lnk": "yes",
+    "category": ".DevTools.CodeHelper"
+}
