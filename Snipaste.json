@@ -9,7 +9,7 @@
 	    "url": "http://47.91.157.61:8020/Snipaste_x86.7z",
             "hash": "c58be7a64fd00edbd9b1cfa9ea12eb833ab1b8dfed31e160eda3db9df4055781"
         }
-    }
+    },
     "extract_dir": "Snipaste",
     "bin": "Snipaste.exe",
     "lnk": "yes",
