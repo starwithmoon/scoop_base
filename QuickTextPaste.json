@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "url": "http://43.128.47.30:8020/QuickTextPaste.7z",
+    "url": "http://192.144.135.94:8020/QuickTextPaste.7z",
     "extract_dir": "QuickTextPaste",
     "bin": "QuickTextPaste.exe",
     "lnk": "yes",

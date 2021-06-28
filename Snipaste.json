@@ -2,11 +2,11 @@
     "version": "1.0",
     "architecture": {
         "64bit": {
-            "url": "http://43.128.47.30:8020/Snipaste_x64.7z",
+            "url": "http://192.144.135.94:8020/Snipaste_x64.7z",
             "hash": "48de97cb80cee461a39d454659f2f15edb454871699218ac37cac48e3341512f"
         },
         "32bit": {
-	    "url": "http://43.128.47.30:8020/Snipaste_x86.7z",
+	    "url": "http://192.144.135.94:8020/Snipaste_x86.7z",
             "hash": "c58be7a64fd00edbd9b1cfa9ea12eb833ab1b8dfed31e160eda3db9df4055781"
         }
     },
