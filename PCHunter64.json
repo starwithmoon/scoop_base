@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "url": "http://47.91.157.61:8020/PCHunter64.7z",
+    "url": "http://43.128.47.30:8020/PCHunter64.7z",
     "extract_dir": "PCHunter64",
     "bin": "PCHunter64.exe",
     "lnk": "yes",

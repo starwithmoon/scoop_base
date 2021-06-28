@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "url": "http://47.91.157.61:8020/sql_navicat.7z",
+    "url": "http://43.128.47.30:8020/sql_navicat.7z",
     "extract_dir": "sql_navicat",
     "bin": "sql_navicat.exe",
     "lnk": "yes",
