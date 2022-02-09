@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/JarFinder.7z",
     "extract_dir": "JarFinder",
     "bin": "JarFinder.exe",
+    "shortcuts": [
+        [
+            "JarFinder.exe",
+            "JarFinder"
+        ]
+    ],
     "lnk": "yes",
     "category": ".DevTools.JavaDev"
 }

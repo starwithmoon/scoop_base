@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/3CDaemon.7z",
     "extract_dir": "3CDaemon",
     "bin": "3CDaemon.exe",
+    "shortcuts": [
+        [
+            "3CDaemon.exe",
+            "3CDaemon"
+        ]
+    ],
     "lnk": "yes",
     "category": ".Network.FileTransfer"
 }

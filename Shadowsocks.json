@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/Shadowsocks.7z",
     "extract_dir": "Shadowsocks",
     "bin": "Shadowsocks.exe",
+    "shortcuts": [
+        [
+            "Shadowsocks.exe",
+            "Shadowsocks"
+        ]
+    ],
     "lnk": "yes",
     "category": ".Network.Proxy"
 }

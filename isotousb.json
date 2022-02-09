@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/isotousb.7z",
     "extract_dir": "isotousb",
     "bin": "isotousb.exe",
+    "shortcuts": [
+        [
+            "isotousb.exe",
+            "isotousb"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.Disks"
 }

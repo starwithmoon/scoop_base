@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/QTranslate.7z",
     "extract_dir": "QTranslate",
     "bin": "QTranslate.exe",
+    "shortcuts": [
+        [
+            "QTranslate.exe",
+            "QTranslate"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.DesktopQuick"
 }

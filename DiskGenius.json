@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/DiskGenius.7z",
     "extract_dir": "DiskGenius",
     "bin": "DiskGenius.exe",
+    "shortcuts": [
+        [
+            "DiskGenius.exe",
+            "DiskGenius"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.Disks"
 }

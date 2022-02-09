@@ -1,0 +1,12 @@
+{
+    "version": "1.0",
+    "url": "http://192.144.135.94:8020/nirLauncher.7z",
+    "extract_dir": "nirLauncher",
+    "shortcuts": [
+        [
+            "nirLauncher.exe",
+            "nirLauncher"
+        ]
+    ],
+    "category": ".Security"
+}

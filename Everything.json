@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/Everything.7z",
     "extract_dir": "Everything",
     "bin": "Everything.exe",
+    "shortcuts": [
+        [
+            "Everything.exe",
+            "Everything"
+        ]
+    ],
     "lnk": "yes",
     "category": ".Editor"
 }

@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/VirtuaWinPortable.7z",
     "extract_dir": "VirtuaWinPortable",
     "bin": "VirtuaWinPortable.exe",
+    "shortcuts": [
+        [
+            "VirtuaWinPortable.exe",
+            "VirtuaWinPortable"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.DesktopQuick"
 }

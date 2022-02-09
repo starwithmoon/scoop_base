@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/FeiQ.7z",
     "extract_dir": "FeiQ",
     "bin": "FeiQ.exe",
+    "shortcuts": [
+        [
+            "FeiQ.exe",
+            "FeiQ"
+        ]
+    ],
     "lnk": "yes",
     "category": ".Network.FileTransfer"
 }

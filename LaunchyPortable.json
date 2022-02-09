@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/LaunchyPortable.7z",
     "extract_dir": "LaunchyPortable",
     "bin": "LaunchyPortable.exe",
+    "shortcuts": [
+        [
+            "LaunchyPortable.exe",
+            "LaunchyPortable"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.DesktopQuick"
 }

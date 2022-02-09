@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/CoolFormat.7z",
     "extract_dir": "CoolFormat",
     "bin": "CoolFormat.exe",
+    "shortcuts": [
+        [
+            "CoolFormat.exe",
+            "CoolFormat"
+        ]
+    ],
     "lnk": "yes",
     "category": ".Editor"
 }

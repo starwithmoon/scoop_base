@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/Sublime.7z",
     "extract_dir": "Sublime",
     "bin": "Sublime.exe",
+    "shortcuts": [
+        [
+            "Sublime.exe",
+            "Sublime"
+        ]
+    ],
     "lnk": "yes",
     "category": ".Editor"
 }

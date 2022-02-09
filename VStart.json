@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/VStart.7z",
     "extract_dir": "VStart",
     "bin": "VStart.exe",
+    "shortcuts": [
+        [
+            "VStart.exe",
+            "VStart"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.DesktopQuick"
 }

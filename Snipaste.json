@@ -12,6 +12,12 @@
     },
     "extract_dir": "Snipaste",
     "bin": "Snipaste.exe",
+    "shortcuts": [
+        [
+            "Snipaste.exe",
+            "Snipaste"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.DesktopQuick"
 }

@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/iCodeRepository.7z",
     "extract_dir": "iCodeRepository",
     "bin": "iCodeRepository.exe",
+    "shortcuts": [
+        [
+            "iCodeRepository.exe",
+            "iCodeRepository"
+        ]
+    ],
     "lnk": "yes",
     "category": ".DevTools.CodeHelper"
 }

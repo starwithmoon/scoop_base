@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/PowerTool64.7z",
     "extract_dir": "PowerTool64",
     "bin": "PowerTool64.exe",
+    "shortcuts": [
+        [
+            "PowerTool64.exe",
+            "PowerTool64"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.Process"
 }

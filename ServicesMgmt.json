@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/ServicesMgmt.7z",
     "extract_dir": "ServicesMgmt",
     "bin": "ServicesMgmt.exe",
+    "shortcuts": [
+        [
+            "ServicesMgmt.exe",
+            "ServicesMgmt"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.Process"
 }

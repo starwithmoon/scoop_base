@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/SecureCRT.7z",
     "extract_dir": "SecureCRT",
     "bin": "SecureCRT.exe",
+    "shortcuts": [
+        [
+            "SecureCRT.exe",
+            "SecureCRT"
+        ]
+    ],
     "lnk": "yes",
     "category": ".Network.Dev"
 }

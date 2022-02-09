@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/copyq.7z",
     "extract_dir": "copyq",
     "bin": "copyq.exe",
+    "shortcuts": [
+        [
+            "copyq.exe",
+            "copyq"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.CliborBoard"
 }

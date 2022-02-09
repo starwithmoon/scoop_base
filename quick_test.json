@@ -1,0 +1,12 @@
+{
+    "version": "1.0",
+    "url": "http://192.144.135.94:8020/quick_test.7z",
+    "extract_dir": "quick_test",
+    "shortcuts": [
+        [
+            "quick_test.exe",
+            "quick_test"
+        ]
+    ],
+    "category": ".System"
+}

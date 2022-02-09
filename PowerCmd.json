@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/PowerCmd.7z",
     "extract_dir": "PowerCmd",
     "bin": "PowerCmd.exe",
+    "shortcuts": [
+        [
+            "PowerCmd.exe",
+            "PowerCmd"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System"
 }

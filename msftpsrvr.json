@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/msftpsrvr.7z",
     "extract_dir": "msftpsrvr",
     "bin": "msftpsrvr.exe",
+    "shortcuts": [
+        [
+            "msftpsrvr.exe",
+            "msftpsrvr"
+        ]
+    ],
     "lnk": "yes",
     "category": ".Network.FileTransfer"
 }

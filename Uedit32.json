@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/Uedit32.7z",
     "extract_dir": "Uedit32",
     "bin": "Uedit32.exe",
+    "shortcuts": [
+        [
+            "Uedit32.exe",
+            "Uedit32"
+        ]
+    ],
     "lnk": "yes",
     "category": ".Editor"
 }

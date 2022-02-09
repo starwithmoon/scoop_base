@@ -1,0 +1,12 @@
+{
+    "version": "1.0",
+    "url": "http://192.144.135.94:8020/Coodesker.7z",
+    "extract_dir": "Coodesker",
+    "shortcuts": [
+        [
+            "Coodesker.exe",
+            "Coodesker"
+        ]
+    ],
+    "category": ".Desktop"
+}

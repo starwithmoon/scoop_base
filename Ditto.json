@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/Ditto.7z",
     "extract_dir": "Ditto",
     "bin": "Ditto.exe",
+    "shortcuts": [
+        [
+            "Ditto.exe",
+            "Ditto"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.DesktopQuick"
 }

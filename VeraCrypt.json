@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/VeraCrypt.7z",
     "extract_dir": "VeraCrypt",
     "bin": "VeraCrypt.exe",
+    "shortcuts": [
+        [
+            "VeraCrypt.exe",
+            "VeraCrypt"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.Disks"
 }

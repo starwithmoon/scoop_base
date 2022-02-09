@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/Proxifier.7z",
     "extract_dir": "Proxifier",
     "bin": "Proxifier.exe",
+    "shortcuts": [
+        [
+            "Proxifier.exe",
+            "Proxifier"
+        ]
+    ],
     "lnk": "yes",
     "category": ".Network.Proxy"
 }

@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/IcoFX2.7z",
     "extract_dir": "IcoFX2",
     "bin": "IcoFX2.exe",
+    "shortcuts": [
+        [
+            "IcoFX2.exe",
+            "IcoFX2"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.DesktopQuick"
 }

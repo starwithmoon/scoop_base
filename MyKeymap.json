@@ -1,0 +1,12 @@
+{
+    "version": "1.0",
+    "url": "http://192.144.135.94:8020/MyKeymap.7z",
+    "extract_dir": "MyKeymap",
+    "shortcuts": [
+        [
+            "MyKeymap.exe",
+            "MyKeymap"
+        ]
+    ],
+    "category": ".Desktop"
+}

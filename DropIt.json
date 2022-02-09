@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/DropIt.7z",
     "extract_dir": "DropIt",
     "bin": "DropIt.exe",
+    "shortcuts": [
+        [
+            "DropIt.exe",
+            "DropIt"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.DesktopQuick"
 }

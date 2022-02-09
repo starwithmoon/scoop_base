@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/hfs.7z",
     "extract_dir": "hfs",
     "bin": "hfs.exe",
+    "shortcuts": [
+        [
+            "hfs.exe",
+            "hfs"
+        ]
+    ],
     "lnk": "yes",
     "category": ".Network.FileTransfer"
 }

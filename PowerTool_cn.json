@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/PowerTool_cn.7z",
     "extract_dir": "PowerTool_cn",
     "bin": "PowerTool_cn.exe",
+    "shortcuts": [
+        [
+            "PowerTool_cn.exe",
+            "PowerTool_cn"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.Process"
 }

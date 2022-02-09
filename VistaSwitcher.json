@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/VistaSwitcher.7z",
     "extract_dir": "VistaSwitcher",
     "bin": "VistaSwitcher.exe",
+    "shortcuts": [
+        [
+            "VistaSwitcher.exe",
+            "VistaSwitcher"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.DesktopQuick"
 }

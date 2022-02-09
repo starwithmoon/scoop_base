@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/Dukto.7z",
     "extract_dir": "Dukto",
     "bin": "Dukto.exe",
+    "shortcuts": [
+        [
+            "Dukto.exe",
+            "Dukto"
+        ]
+    ],
     "lnk": "yes",
     "category": ".Network.FileTransfer"
 }

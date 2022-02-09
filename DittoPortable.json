@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/DittoPortable.7z",
     "extract_dir": "DittoPortable",
     "bin": "DittoPortable.exe",
+    "shortcuts": [
+        [
+            "DittoPortable.exe",
+            "DittoPortable"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.CliborBoard"
 }

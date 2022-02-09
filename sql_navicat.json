@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/sql_navicat.7z",
     "extract_dir": "sql_navicat",
     "bin": "sql_navicat.exe",
+    "shortcuts": [
+        [
+            "sql_navicat.exe",
+            "sql_navicat"
+        ]
+    ],
     "lnk": "yes",
     "category": ".Databases"
 }

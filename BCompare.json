@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/BCompare.7z",
     "extract_dir": "BCompare",
     "bin": "BCompare.exe",
+    "shortcuts": [
+        [
+            "BCompare.exe",
+            "BCompare"
+        ]
+    ],
     "lnk": "yes",
     "category": ".Editor"
 }

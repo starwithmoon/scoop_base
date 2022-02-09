@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/ipmsg.7z",
     "extract_dir": "ipmsg",
     "bin": "ipmsg.exe",
+    "shortcuts": [
+        [
+            "ipmsg.exe",
+            "ipmsg"
+        ]
+    ],
     "lnk": "yes",
     "category": ".Network.FileTransfer"
 }

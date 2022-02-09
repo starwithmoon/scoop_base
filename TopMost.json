@@ -1,0 +1,12 @@
+{
+    "version": "1.0",
+    "url": "http://192.144.135.94:8020/TopMost.7z",
+    "extract_dir": "TopMost",
+    "shortcuts": [
+        [
+            "TopMost.exe",
+            "TopMost"
+        ]
+    ],
+    "category": ".System"
+}

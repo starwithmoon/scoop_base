@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/Tftpd32.7z",
     "extract_dir": "Tftpd32",
     "bin": "Tftpd32.exe",
+    "shortcuts": [
+        [
+            "Tftpd32.exe",
+            "Tftpd32"
+        ]
+    ],
     "lnk": "yes",
     "category": ".Network.FileTransfer"
 }

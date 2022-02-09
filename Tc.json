@@ -3,6 +3,12 @@
     "url": "http://192.144.135.94:8020/Tc.7z",
     "extract_dir": "Tc",
     "bin": "Tc.exe",
+    "shortcuts": [
+        [
+            "Tc.exe",
+            "Tc"
+        ]
+    ],
     "lnk": "yes",
     "category": ".System.DesktopQuick"
 }
