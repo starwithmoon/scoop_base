@@ -1,0 +1,12 @@
+{
+    "version": "1.0",
+    "url": "http://192.144.135.94:8020/eso.7z",
+    "extract_dir": "eso",
+    "shortcuts": [
+        [
+            "eso.exe",
+            "eso"
+        ]
+    ],
+    "category": "..Security"
+}
